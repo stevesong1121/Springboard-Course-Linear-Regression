@@ -13,10 +13,15 @@ Part 2: Exploratory Data Analysis for Linear Relationships
 Part 3: Using Statsmodels to investigate R-square , F-statistic, t-statistic, p-value and AIC
 
 Part 4: Evaluating the Model via Model Assumptions 
+
        -- use fitted values versus residuals plot to check linear relationship assumption
+       
        -- use fitted values versus residuals plot to detect outliers
+       
        -- use quantile-quantile plot to check normal distribution of errors
+       
        -- use influence plot to detect high leverage points
+       
        -- optimize model performance by applying these techniques above.
        
   

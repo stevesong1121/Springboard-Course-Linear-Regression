@@ -7,7 +7,9 @@ The packages we'll cover are: statsmodels, seaborn, and scikit-learn.
 Part 1: Mathemetics behind linear regression
 
 Part 2: Exploratory Data Analysis for Linear Relationships
+
        -- Descriptive Analysis
+       
        -- Data visualization
        
 Part 3: Using Statsmodels to investigate R-square , F-statistic, t-statistic, p-value and AIC

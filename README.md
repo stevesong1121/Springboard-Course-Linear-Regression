@@ -1,6 +1,6 @@
 # Springboard-Course-Linear-Regression
 
-The objective of this project is to apply linear regression algorithm. to solve the problem of house price prediction. 
+The objective of this project is to apply linear regression algorithm to solve the problem of house price prediction. 
 
 The packages we'll cover are: statsmodels, seaborn, and scikit-learn.
 
